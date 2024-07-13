@@ -2,7 +2,7 @@
 Power Bi Dashboard
 Credit Card Transaction Analysis with Power Bi :This project leveraged power bi and excel to analyse credit card transaction data.
 
-the Goal:Developed insightful dashboards for better understanding of the trends.
+The Goal:Developed insightful dashboards for better understanding of the trends.
 
 Cleaning up the data:1]Removed duplicates and irrelevant columns.
 2]Ensured data types are accurate.
@@ -17,7 +17,7 @@ Observations:1]Revenue dropped 13.45 between weeks 51 and 52.
 3]Interest earned-$7.8million.
 4]Total transaction amount-$44.5million .
 5]Customer aged 40-50 are the biggest credit card users.
-6]Blue and silver cards account for 935 of transactions.
+6]Blue and silver cards account for 93.5% of transactions.
 7]Overall credit card activation rate is 57.5%.
 8]Delinquency rate is 6.07%.
 
